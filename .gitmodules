@@ -1,0 +1,3 @@
+[submodule "project-insight-crawler"]
+	path = project-insight-crawler
+	url = git@github.com:gustavogutkoski/project-insight-crawler.git
