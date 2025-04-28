@@ -1,3 +1,6 @@
 [submodule "project-insight-crawler"]
 	path = project-insight-crawler
 	url = git@github.com:gustavogutkoski/project-insight-crawler.git
+[submodule "project-insight-api"]
+	path = project-insight-api
+	url = git@github.com:gustavogutkoski/project-insight-api.git
